@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridViewFilterOptions.cs](./CS/GridViewFilterOptions.cs) (VB: [GridViewFilterOptions.vb](./VB/GridViewFilterOptions.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+<!-- default file list end -->
 # How to allow an end-user to show (hide) a grid view filter panel via a grid view context menu.
 
 
